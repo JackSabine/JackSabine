@@ -1,12 +1,9 @@
-Hey, I'm Jack Sabine.
+Hello!
 
 I like working with:
-* RTL for ASIC/FPGA
-* Python
-* Linux tools
+* RTL for ASIC
 * Neovim
 * Computer Architecture
-* Signal Processing
 
 <!---
 JackSabine/JackSabine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
